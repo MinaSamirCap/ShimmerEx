@@ -13,3 +13,7 @@ class MainActivity : AppCompatActivity() {
         shimmerLayout.startShimmer()
     }
 }
+
+
+/// references ..
+/// https://facebook.github.io/shimmer-android/
